@@ -1,0 +1,3 @@
+.tab-content { display: none; }
+.tab-content.active { display: block; }
+.stok-low { background-color: #ffcccc; }
