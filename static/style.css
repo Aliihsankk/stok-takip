@@ -1,0 +1,17 @@
+.tab-content { display: none; }
+.tab-content.active { display: block; }
+.stok-low { background-color: #ffcccc; }
+/* Temel stiller */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+.table {
+    width: 100%;
+    margin-top: 20px;
+}
+
+.stok-low {
+    background-color: #ffcccc;
+}
